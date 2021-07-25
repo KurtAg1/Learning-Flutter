@@ -1,4 +1,4 @@
-import 'package:awesome_app/drawer.dart';
+import 'package:awesome_app/widgets/drawer.dart';
 import 'package:awesome_app/pages/login_page.dart';
 import 'package:awesome_app/utils/constants.dart';
 import 'package:flutter/material.dart';
